@@ -9,17 +9,20 @@
 #import "EDSemver.h"
 
 @interface EDSemver ()
+
 @property (readwrite) BOOL isValid;
-@property (readwrite) int major;
-@property (readwrite) int minor;
-@property (readwrite) int patch;
+@property (readwrite) NSInteger major;
+@property (readwrite) NSInteger minor;
+@property (readwrite) NSInteger patch;
 @property (readwrite) NSString *prerelease;
 @property (readwrite) NSString *build;
 @property (readwrite) NSArray *pr;
 
 @property NSString *original;
 @property NSArray *version;
+
 @end
+
 
 @implementation EDSemver
 

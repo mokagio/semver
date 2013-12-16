@@ -32,16 +32,6 @@ static NSString *const VERSION_DELIMITER        = @".";
 static NSString *const IGNORE_PREFIX            = @"v";
 static NSString *const IGNORE_EQ                = @"=";
 
-@synthesize isValid = _isValid;
-@synthesize major = _major;
-@synthesize minor = _minor;
-@synthesize patch = _patch;
-@synthesize prerelease = _prerelease;
-@synthesize build = _build;
-@synthesize original = _original;
-@synthesize version = _version;
-@synthesize pr = _pr;
-
 #pragma mark - Init
 
 + (NSString *)spec

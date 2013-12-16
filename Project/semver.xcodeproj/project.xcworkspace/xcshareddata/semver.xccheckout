@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EE651AA6-AA21-4586-A41B-4581577D379F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>semver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76802F9E-6DFE-4D11-95AF-691F89825873</key>
+		<string>https://github.com/thisandagain/semver.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project/semver.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76802F9E-6DFE-4D11-95AF-691F89825873</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thisandagain/semver.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76802F9E-6DFE-4D11-95AF-691F89825873</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76802F9E-6DFE-4D11-95AF-691F89825873</string>
+			<key>IDESourceControlWCCName</key>
+			<string>semver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
